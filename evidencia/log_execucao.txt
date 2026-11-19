@@ -1,0 +1,730 @@
+	>Processando stream do YouTube...
+Stream pronto: formato 398 (720p)
+Rodando... (Q ou ESC para sair)
+
+[00:00] ----------Nada relevante pode ser detectado----------
+[00:01] ----------Nada relevante pode ser detectado----------
+[00:02] ----------Nada relevante pode ser detectado----------
+[00:02] ----------Nada relevante pode ser detectado----------
+[00:03] ----------Nada relevante pode ser detectado----------
+[00:03] ----------Nada relevante pode ser detectado----------
+[00:04] ----------Nada relevante pode ser detectado----------
+[00:04] ----------Nada relevante pode ser detectado----------
+[00:05] ----------Nada relevante pode ser detectado----------
+[00:06] ----------Nada relevante pode ser detectado----------
+(classe do modelo encontrada: 'pedestrian_crossing')
+(classe do modelo encontrada: 'red_light')
+    (evidências do frame 198 salvas em evidencia\etapas\frame_00198)
+[00:06] Faixa de pedestre sem semáforo a frente
+[00:07] Faixa de pedestre e semáforo vermelho a frente
+    (evidências do frame 230 salvas em evidencia\etapas\frame_00230)
+[00:07] Faixa de pedestre sem semáforo a frente
+[00:08] Faixa de pedestre sem semáforo a frente
+[00:08] Faixa de pedestre sem semáforo a frente
+    (evidências do frame 276 salvas em evidencia\etapas\frame_00276)
+[00:09] Faixa de pedestre sem semáforo a frente
+[00:09] Faixa de pedestre sem semáforo a frente
+[00:10] Faixa de pedestre sem semáforo a frente
+    (evidências do frame 322 salvas em evidencia\etapas\frame_00322)
+[00:10] Faixa de pedestre sem semáforo a frente
+[00:11] Faixa de pedestre sem semáforo a frente
+[00:11] Faixa de pedestre sem semáforo a frente
+[00:12] Faixa de pedestre sem semáforo a frente
+[00:12] Faixa de pedestre sem semáforo a frente
+[00:13] Faixa de pedestre sem semáforo a frente
+[00:13] Faixa de pedestre sem semáforo a frente
+[00:14] Faixa de pedestre sem semáforo a frente
+[00:14] Faixa de pedestre sem semáforo a frente
+[00:15] Faixa de pedestre sem semáforo a frente
+[00:15] Faixa de pedestre sem semáforo a frente
+[00:16] Faixa de pedestre sem semáforo a frente
+[00:17] Faixa de pedestre sem semáforo a frente
+[00:17] Faixa de pedestre sem semáforo a frente
+(classe do modelo encontrada: 'vehicle')
+    (evidências do frame 540 salvas em evidencia\etapas\frame_00540)
+[00:18] Faixa de pedestre sem semáforo a frente
+    (evidências do frame 553 salvas em evidencia\etapas\frame_00553)
+[00:18] Faixa de pedestre sem semáforo a frente
+[00:19] Faixa de pedestre sem semáforo a frente
+[00:19] Faixa de pedestre sem semáforo a frente
+[00:19] ----------Nada relevante pode ser detectado----------
+[00:20] ----------Nada relevante pode ser detectado----------
+[00:20] ----------Nada relevante pode ser detectado----------
+[00:20] ----------Nada relevante pode ser detectado----------
+[00:21] Faixa de pedestre sem semáforo a frente
+[00:21] Faixa de pedestre sem semáforo a frente
+[00:22] Faixa de pedestre sem semáforo a frente
+[00:22] Faixa de pedestre sem semáforo a frente
+[00:22] Faixa de pedestre sem semáforo a frente
+    (evidências do frame 698 salvas em evidencia\etapas\frame_00698)
+[00:23] Faixa de pedestre e semáforo vermelho a frente
+[00:23] Faixa de pedestre sem semáforo a frente
+[00:24] Faixa de pedestre e semáforo vermelho a frente
+[00:24] Faixa de pedestre e semáforo vermelho a frente
+[00:25] Faixa de pedestre e semáforo vermelho a frente
+[00:25] Faixa de pedestre sem semáforo a frente
+[00:25] Faixa de pedestre e semáforo vermelho a frente
+[00:26] Faixa de pedestre e semáforo vermelho a frente
+[00:27] Faixa de pedestre e semáforo vermelho a frente
+[00:27] Faixa de pedestre e semáforo vermelho a frente
+[00:27] Faixa de pedestre e semáforo vermelho a frente
+    (evidências do frame 845 salvas em evidencia\etapas\frame_00845)
+[00:28] Faixa de pedestre sem semáforo a frente
+    (evidências do frame 860 salvas em evidencia\etapas\frame_00860)
+[00:28] Faixa de pedestre e semáforo vermelho a frente
+    (evidências do frame 876 salvas em evidencia\etapas\frame_00876)
+[00:29] Faixa de pedestre sem semáforo a frente
+    (evidências do frame 889 salvas em evidencia\etapas\frame_00889)
+[00:29] Faixa de pedestre e semáforo vermelho a frente
+[00:30] Faixa de pedestre e semáforo vermelho a frente
+[00:30] Faixa de pedestre e semáforo vermelho a frente
+[00:30] Faixa de pedestre e semáforo vermelho a frente
+[00:31] Faixa de pedestre e semáforo vermelho a frente
+[00:31] Faixa de pedestre e semáforo vermelho a frente
+[00:31] Faixa de pedestre e semáforo vermelho a frente
+    (evidências do frame 963 salvas em evidencia\etapas\frame_00963)
+[00:32] Semáforo vermelho a frente (sem faixa de pedestre)
+[00:32] Semáforo vermelho a frente (sem faixa de pedestre)
+[00:33] Semáforo vermelho a frente (sem faixa de pedestre)
+[00:33] ----------Nada relevante pode ser detectado----------
+[00:33] Semáforo vermelho a frente (sem faixa de pedestre)
+[00:34] Semáforo vermelho a frente (sem faixa de pedestre)
+[00:34] ----------Nada relevante pode ser detectado----------
+[00:34] ----------Nada relevante pode ser detectado----------
+[00:35] ----------Nada relevante pode ser detectado----------
+[00:35] Semáforo vermelho a frente (sem faixa de pedestre)
+[00:36] ----------Nada relevante pode ser detectado----------
+[00:36] Faixa de pedestre e semáforo vermelho a frente
+[00:36] Faixa de pedestre sem semáforo a frente
+[00:37] Faixa de pedestre e semáforo vermelho a frente
+[00:37] Faixa de pedestre sem semáforo a frente
+[00:38] Faixa de pedestre sem semáforo a frente
+[00:38] Faixa de pedestre e semáforo vermelho a frente
+[00:39] Faixa de pedestre e semáforo vermelho a frente
+[00:39] Faixa de pedestre e semáforo vermelho a frente
+[00:39] Faixa de pedestre e semáforo vermelho a frente
+[00:40] Faixa de pedestre e semáforo vermelho a frente
+[00:40] Faixa de pedestre sem semáforo a frente
+[00:41] Faixa de pedestre e semáforo vermelho a frente
+[00:41] Faixa de pedestre e semáforo vermelho a frente
+[00:42] Faixa de pedestre e semáforo vermelho a frente
+[00:42] Faixa de pedestre e semáforo vermelho a frente
+[00:42] Faixa de pedestre sem semáforo a frente
+[00:43] Faixa de pedestre sem semáforo a frente
+[00:43] Faixa de pedestre sem semáforo a frente
+[00:43] ----------Nada relevante pode ser detectado----------
+[00:44] ----------Nada relevante pode ser detectado----------
+[00:44] ----------Nada relevante pode ser detectado----------
+[00:45] Faixa de pedestre sem semáforo a frente
+[00:45] Faixa de pedestre sem semáforo a frente
+[00:45] Faixa de pedestre sem semáforo a frente
+[00:46] Faixa de pedestre sem semáforo a frente
+[00:46] Faixa de pedestre sem semáforo a frente
+[00:47] Faixa de pedestre sem semáforo a frente
+[00:47] Faixa de pedestre sem semáforo a frente
+[00:47] Faixa de pedestre sem semáforo a frente
+[00:48] Faixa de pedestre sem semáforo a frente
+[00:48] Faixa de pedestre sem semáforo a frente
+[00:49] Faixa de pedestre sem semáforo a frente
+[00:49] Faixa de pedestre sem semáforo a frente
+(classe do modelo encontrada: 'green_light')
+[00:50] Faixa de pedestre e semáforo verde a frente
+[00:50] Faixa de pedestre sem semáforo a frente
+[00:51] Faixa de pedestre sem semáforo a frente
+[00:51] Faixa de pedestre sem semáforo a frente
+[00:51] Faixa de pedestre sem semáforo a frente
+[00:52] Faixa de pedestre sem semáforo a frente
+[00:52] Faixa de pedestre sem semáforo a frente
+[00:53] Faixa de pedestre sem semáforo a frente
+[00:53] Faixa de pedestre sem semáforo a frente
+[00:53] Faixa de pedestre sem semáforo a frente
+[00:54] Faixa de pedestre sem semáforo a frente
+[00:54] Faixa de pedestre sem semáforo a frente
+[00:54] ----------Nada relevante pode ser detectado----------
+[00:55] Faixa de pedestre e semáforo verde a frente
+[00:55] ----------Nada relevante pode ser detectado----------
+[00:55] ----------Nada relevante pode ser detectado----------
+[00:56] ----------Nada relevante pode ser detectado----------
+[00:56] ----------Nada relevante pode ser detectado----------
+[00:56] ----------Nada relevante pode ser detectado----------
+[00:57] Faixa de pedestre e semáforo verde a frente
+[00:57] Faixa de pedestre sem semáforo a frente
+[00:57] ----------Nada relevante pode ser detectado----------
+[00:58] Semáforo verde a frente (sem faixa de pedestre)
+[00:58] ----------Nada relevante pode ser detectado----------
+[00:58] ----------Nada relevante pode ser detectado----------
+[00:59] ----------Nada relevante pode ser detectado----------
+[00:59] ----------Nada relevante pode ser detectado----------
+[01:00] ----------Nada relevante pode ser detectado----------
+[01:00] Semáforo verde a frente (sem faixa de pedestre)
+[01:01] ----------Nada relevante pode ser detectado----------
+[01:01] ----------Nada relevante pode ser detectado----------
+[01:01] ----------Nada relevante pode ser detectado----------
+[01:02] ----------Nada relevante pode ser detectado----------
+[01:02] ----------Nada relevante pode ser detectado----------
+[01:02] ----------Nada relevante pode ser detectado----------
+[01:03] ----------Nada relevante pode ser detectado----------
+[01:03] ----------Nada relevante pode ser detectado----------
+[01:03] ----------Nada relevante pode ser detectado----------
+[01:04] ----------Nada relevante pode ser detectado----------
+[01:04] ----------Nada relevante pode ser detectado----------
+[01:04] ----------Nada relevante pode ser detectado----------
+[01:05] ----------Nada relevante pode ser detectado----------
+[01:05] ----------Nada relevante pode ser detectado----------
+[01:05] ----------Nada relevante pode ser detectado----------
+[01:06] ----------Nada relevante pode ser detectado----------
+[01:06] ----------Nada relevante pode ser detectado----------
+[01:06] ----------Nada relevante pode ser detectado----------
+[01:07] ----------Nada relevante pode ser detectado----------
+[01:07] ----------Nada relevante pode ser detectado----------
+[01:07] ----------Nada relevante pode ser detectado----------
+[01:08] ----------Nada relevante pode ser detectado----------
+[01:08] ----------Nada relevante pode ser detectado----------
+[01:09] ----------Nada relevante pode ser detectado----------
+[01:09] ----------Nada relevante pode ser detectado----------
+[01:09] ----------Nada relevante pode ser detectado----------
+[01:10] ----------Nada relevante pode ser detectado----------
+[01:10] ----------Nada relevante pode ser detectado----------
+[01:11] ----------Nada relevante pode ser detectado----------
+[01:11] ----------Nada relevante pode ser detectado----------
+[01:11] ----------Nada relevante pode ser detectado----------
+[01:12] ----------Nada relevante pode ser detectado----------
+[01:12] ----------Nada relevante pode ser detectado----------
+[01:12] ----------Nada relevante pode ser detectado----------
+[01:13] ----------Nada relevante pode ser detectado----------
+[01:13] ----------Nada relevante pode ser detectado----------
+[01:14] ----------Nada relevante pode ser detectado----------
+[01:14] ----------Nada relevante pode ser detectado----------
+[01:14] ----------Nada relevante pode ser detectado----------
+[01:15] ----------Nada relevante pode ser detectado----------
+[01:15] ----------Nada relevante pode ser detectado----------
+[01:16] ----------Nada relevante pode ser detectado----------
+[01:16] ----------Nada relevante pode ser detectado----------
+[01:16] ----------Nada relevante pode ser detectado----------
+[01:17] ----------Nada relevante pode ser detectado----------
+[01:17] ----------Nada relevante pode ser detectado----------
+[01:17] ----------Nada relevante pode ser detectado----------
+[01:18] ----------Nada relevante pode ser detectado----------
+[01:18] ----------Nada relevante pode ser detectado----------
+[01:19] ----------Nada relevante pode ser detectado----------
+[01:19] ----------Nada relevante pode ser detectado----------
+[01:20] ----------Nada relevante pode ser detectado----------
+[01:20] ----------Nada relevante pode ser detectado----------
+[01:21] ----------Nada relevante pode ser detectado----------
+[01:21] ----------Nada relevante pode ser detectado----------
+[01:21] ----------Nada relevante pode ser detectado----------
+[01:22] ----------Nada relevante pode ser detectado----------
+[01:22] ----------Nada relevante pode ser detectado----------
+[01:23] ----------Nada relevante pode ser detectado----------
+[01:23] ----------Nada relevante pode ser detectado----------
+[01:24] ----------Nada relevante pode ser detectado----------
+[01:24] ----------Nada relevante pode ser detectado----------
+[01:24] ----------Nada relevante pode ser detectado----------
+[01:25] ----------Nada relevante pode ser detectado----------
+[01:25] ----------Nada relevante pode ser detectado----------
+[01:26] ----------Nada relevante pode ser detectado----------
+[01:26] ----------Nada relevante pode ser detectado----------
+[01:27] ----------Nada relevante pode ser detectado----------
+[01:27] ----------Nada relevante pode ser detectado----------
+[01:27] ----------Nada relevante pode ser detectado----------
+[01:28] ----------Nada relevante pode ser detectado----------
+[01:28] ----------Nada relevante pode ser detectado----------
+[01:29] ----------Nada relevante pode ser detectado----------
+[01:29] ----------Nada relevante pode ser detectado----------
+[01:30] ----------Nada relevante pode ser detectado----------
+[01:30] ----------Nada relevante pode ser detectado----------
+[01:30] ----------Nada relevante pode ser detectado----------
+[01:31] ----------Nada relevante pode ser detectado----------
+[01:31] ----------Nada relevante pode ser detectado----------
+[01:32] ----------Nada relevante pode ser detectado----------
+[01:32] ----------Nada relevante pode ser detectado----------
+[01:32] ----------Nada relevante pode ser detectado----------
+[01:33] ----------Nada relevante pode ser detectado----------
+[01:33] ----------Nada relevante pode ser detectado----------
+[01:33] ----------Nada relevante pode ser detectado----------
+[01:34] ----------Nada relevante pode ser detectado----------
+[01:34] ----------Nada relevante pode ser detectado----------
+[01:35] ----------Nada relevante pode ser detectado----------
+[01:35] ----------Nada relevante pode ser detectado----------
+[01:36] ----------Nada relevante pode ser detectado----------
+[01:36] ----------Nada relevante pode ser detectado----------
+[01:36] ----------Nada relevante pode ser detectado----------
+[01:37] ----------Nada relevante pode ser detectado----------
+[01:37] ----------Nada relevante pode ser detectado----------
+[01:37] ----------Nada relevante pode ser detectado----------
+[01:38] ----------Nada relevante pode ser detectado----------
+[01:38] ----------Nada relevante pode ser detectado----------
+[01:39] ----------Nada relevante pode ser detectado----------
+[01:39] ----------Nada relevante pode ser detectado----------
+[01:40] ----------Nada relevante pode ser detectado----------
+[01:40] ----------Nada relevante pode ser detectado----------
+[01:40] ----------Nada relevante pode ser detectado----------
+[01:41] ----------Nada relevante pode ser detectado----------
+[01:41] ----------Nada relevante pode ser detectado----------
+[01:42] ----------Nada relevante pode ser detectado----------
+[01:42] ----------Nada relevante pode ser detectado----------
+[01:43] ----------Nada relevante pode ser detectado----------
+[01:43] ----------Nada relevante pode ser detectado----------
+[01:43] ----------Nada relevante pode ser detectado----------
+[01:44] ----------Nada relevante pode ser detectado----------
+[01:44] ----------Nada relevante pode ser detectado----------
+[01:45] ----------Nada relevante pode ser detectado----------
+[01:45] ----------Nada relevante pode ser detectado----------
+[01:46] ----------Nada relevante pode ser detectado----------
+[01:46] ----------Nada relevante pode ser detectado----------
+[01:46] ----------Nada relevante pode ser detectado----------
+[01:47] ----------Nada relevante pode ser detectado----------
+[01:47] ----------Nada relevante pode ser detectado----------
+[01:48] ----------Nada relevante pode ser detectado----------
+[01:48] ----------Nada relevante pode ser detectado----------
+[01:49] ----------Nada relevante pode ser detectado----------
+[01:49] ----------Nada relevante pode ser detectado----------
+[01:49] ----------Nada relevante pode ser detectado----------
+[01:50] ----------Nada relevante pode ser detectado----------
+[01:50] ----------Nada relevante pode ser detectado----------
+[01:51] ----------Nada relevante pode ser detectado----------
+[01:51] Faixa de pedestre sem semáforo a frente
+[01:51] Faixa de pedestre sem semáforo a frente
+[01:52] Faixa de pedestre sem semáforo a frente
+[01:52] Faixa de pedestre sem semáforo a frente
+[01:53] Faixa de pedestre sem semáforo a frente
+[01:53] Faixa de pedestre sem semáforo a frente
+[01:54] Faixa de pedestre sem semáforo a frente
+[01:54] ----------Nada relevante pode ser detectado----------
+[01:54] Faixa de pedestre sem semáforo a frente
+[01:55] Faixa de pedestre sem semáforo a frente
+[01:55] Faixa de pedestre sem semáforo a frente
+[01:56] Faixa de pedestre sem semáforo a frente
+[01:56] Faixa de pedestre sem semáforo a frente
+[01:56] Faixa de pedestre sem semáforo a frente
+[01:57] ----------Nada relevante pode ser detectado----------
+[01:57] ----------Nada relevante pode ser detectado----------
+[01:58] ----------Nada relevante pode ser detectado----------
+[01:58] ----------Nada relevante pode ser detectado----------
+[01:59] ----------Nada relevante pode ser detectado----------
+[01:59] ----------Nada relevante pode ser detectado----------
+[01:59] ----------Nada relevante pode ser detectado----------
+[02:00] ----------Nada relevante pode ser detectado----------
+[02:00] ----------Nada relevante pode ser detectado----------
+[02:01] ----------Nada relevante pode ser detectado----------
+[02:01] ----------Nada relevante pode ser detectado----------
+[02:01] ----------Nada relevante pode ser detectado----------
+[02:02] ----------Nada relevante pode ser detectado----------
+[02:02] ----------Nada relevante pode ser detectado----------
+[02:03] ----------Nada relevante pode ser detectado----------
+[02:03] ----------Nada relevante pode ser detectado----------
+[02:03] ----------Nada relevante pode ser detectado----------
+[02:04] ----------Nada relevante pode ser detectado----------
+[02:04] ----------Nada relevante pode ser detectado----------
+[02:05] ----------Nada relevante pode ser detectado----------
+[02:06] ----------Nada relevante pode ser detectado----------
+[02:06] ----------Nada relevante pode ser detectado----------
+[02:06] ----------Nada relevante pode ser detectado----------
+[02:07] ----------Nada relevante pode ser detectado----------
+[02:07] ----------Nada relevante pode ser detectado----------
+[02:08] ----------Nada relevante pode ser detectado----------
+[02:08] ----------Nada relevante pode ser detectado----------
+[02:08] ----------Nada relevante pode ser detectado----------
+[02:09] ----------Nada relevante pode ser detectado----------
+[02:09] ----------Nada relevante pode ser detectado----------
+[02:10] ----------Nada relevante pode ser detectado----------
+[02:10] ----------Nada relevante pode ser detectado----------
+[02:10] ----------Nada relevante pode ser detectado----------
+[02:11] ----------Nada relevante pode ser detectado----------
+[02:11] ----------Nada relevante pode ser detectado----------
+[02:12] ----------Nada relevante pode ser detectado----------
+[02:12] ----------Nada relevante pode ser detectado----------
+[02:12] ----------Nada relevante pode ser detectado----------
+[02:13] ----------Nada relevante pode ser detectado----------
+[02:13] ----------Nada relevante pode ser detectado----------
+[02:14] ----------Nada relevante pode ser detectado----------
+[02:14] ----------Nada relevante pode ser detectado----------
+[02:15] ----------Nada relevante pode ser detectado----------
+[02:15] ----------Nada relevante pode ser detectado----------
+[02:15] ----------Nada relevante pode ser detectado----------
+[02:16] ----------Nada relevante pode ser detectado----------
+[02:16] ----------Nada relevante pode ser detectado----------
+[02:16] ----------Nada relevante pode ser detectado----------
+[02:17] ----------Nada relevante pode ser detectado----------
+[02:17] ----------Nada relevante pode ser detectado----------
+[02:18] ----------Nada relevante pode ser detectado----------
+[02:18] ----------Nada relevante pode ser detectado----------
+[02:19] ----------Nada relevante pode ser detectado----------
+[02:19] ----------Nada relevante pode ser detectado----------
+[02:19] ----------Nada relevante pode ser detectado----------
+[02:20] ----------Nada relevante pode ser detectado----------
+[02:20] ----------Nada relevante pode ser detectado----------
+[02:21] ----------Nada relevante pode ser detectado----------
+[02:21] ----------Nada relevante pode ser detectado----------
+[02:22] ----------Nada relevante pode ser detectado----------
+[02:22] ----------Nada relevante pode ser detectado----------
+[02:22] ----------Nada relevante pode ser detectado----------
+[02:23] ----------Nada relevante pode ser detectado----------
+[02:23] ----------Nada relevante pode ser detectado----------
+[02:24] ----------Nada relevante pode ser detectado----------
+[02:24] ----------Nada relevante pode ser detectado----------
+[02:24] ----------Nada relevante pode ser detectado----------
+[02:25] ----------Nada relevante pode ser detectado----------
+[02:25] ----------Nada relevante pode ser detectado----------
+[02:26] ----------Nada relevante pode ser detectado----------
+[02:26] ----------Nada relevante pode ser detectado----------
+[02:27] ----------Nada relevante pode ser detectado----------
+[02:27] ----------Nada relevante pode ser detectado----------
+[02:27] ----------Nada relevante pode ser detectado----------
+[02:28] ----------Nada relevante pode ser detectado----------
+[02:28] ----------Nada relevante pode ser detectado----------
+[02:29] ----------Nada relevante pode ser detectado----------
+[02:29] ----------Nada relevante pode ser detectado----------
+[02:30] ----------Nada relevante pode ser detectado----------
+[02:30] ----------Nada relevante pode ser detectado----------
+[02:30] ----------Nada relevante pode ser detectado----------
+[02:31] ----------Nada relevante pode ser detectado----------
+[02:31] ----------Nada relevante pode ser detectado----------
+[02:32] ----------Nada relevante pode ser detectado----------
+[02:32] ----------Nada relevante pode ser detectado----------
+[02:33] ----------Nada relevante pode ser detectado----------
+[02:33] ----------Nada relevante pode ser detectado----------
+[02:33] ----------Nada relevante pode ser detectado----------
+[02:34] ----------Nada relevante pode ser detectado----------
+[02:34] ----------Nada relevante pode ser detectado----------
+[02:35] ----------Nada relevante pode ser detectado----------
+[02:35] ----------Nada relevante pode ser detectado----------
+[02:36] ----------Nada relevante pode ser detectado----------
+[02:36] ----------Nada relevante pode ser detectado----------
+[02:37] ----------Nada relevante pode ser detectado----------
+[02:37] ----------Nada relevante pode ser detectado----------
+[02:37] ----------Nada relevante pode ser detectado----------
+[02:38] ----------Nada relevante pode ser detectado----------
+[02:38] ----------Nada relevante pode ser detectado----------
+[02:39] ----------Nada relevante pode ser detectado----------
+[02:39] ----------Nada relevante pode ser detectado----------
+[02:40] ----------Nada relevante pode ser detectado----------
+[02:40] ----------Nada relevante pode ser detectado----------
+[02:41] ----------Nada relevante pode ser detectado----------
+[02:41] ----------Nada relevante pode ser detectado----------
+[02:42] ----------Nada relevante pode ser detectado----------
+[02:42] ----------Nada relevante pode ser detectado----------
+[02:43] ----------Nada relevante pode ser detectado----------
+[02:43] ----------Nada relevante pode ser detectado----------
+[02:43] ----------Nada relevante pode ser detectado----------
+[02:44] ----------Nada relevante pode ser detectado----------
+[02:44] ----------Nada relevante pode ser detectado----------
+[02:45] ----------Nada relevante pode ser detectado----------
+[02:45] ----------Nada relevante pode ser detectado----------
+[02:46] ----------Nada relevante pode ser detectado----------
+[02:46] ----------Nada relevante pode ser detectado----------
+[02:46] ----------Nada relevante pode ser detectado----------
+[02:47] ----------Nada relevante pode ser detectado----------
+[02:47] ----------Nada relevante pode ser detectado----------
+[02:48] ----------Nada relevante pode ser detectado----------
+[02:48] ----------Nada relevante pode ser detectado----------
+[02:49] ----------Nada relevante pode ser detectado----------
+[02:49] ----------Nada relevante pode ser detectado----------
+[02:49] ----------Nada relevante pode ser detectado----------
+[02:50] ----------Nada relevante pode ser detectado----------
+[02:50] ----------Nada relevante pode ser detectado----------
+[02:51] ----------Nada relevante pode ser detectado----------
+[02:51] ----------Nada relevante pode ser detectado----------
+[02:51] ----------Nada relevante pode ser detectado----------
+[02:52] ----------Nada relevante pode ser detectado----------
+[02:52] ----------Nada relevante pode ser detectado----------
+[02:53] ----------Nada relevante pode ser detectado----------
+[02:53] ----------Nada relevante pode ser detectado----------
+[02:54] ----------Nada relevante pode ser detectado----------
+[02:54] ----------Nada relevante pode ser detectado----------
+[02:54] ----------Nada relevante pode ser detectado----------
+[02:55] ----------Nada relevante pode ser detectado----------
+[02:55] ----------Nada relevante pode ser detectado----------
+[02:56] ----------Nada relevante pode ser detectado----------
+[02:56] ----------Nada relevante pode ser detectado----------
+[02:56] ----------Nada relevante pode ser detectado----------
+[02:57] ----------Nada relevante pode ser detectado----------
+[02:57] ----------Nada relevante pode ser detectado----------
+[02:57] ----------Nada relevante pode ser detectado----------
+[02:58] Faixa de pedestre sem semáforo a frente
+[02:58] ----------Nada relevante pode ser detectado----------
+[02:59] ----------Nada relevante pode ser detectado----------
+[02:59] ----------Nada relevante pode ser detectado----------
+[03:00] ----------Nada relevante pode ser detectado----------
+[03:00] ----------Nada relevante pode ser detectado----------
+[03:01] ----------Nada relevante pode ser detectado----------
+[03:01] ----------Nada relevante pode ser detectado----------
+[03:01] ----------Nada relevante pode ser detectado----------
+[03:02] ----------Nada relevante pode ser detectado----------
+[03:02] ----------Nada relevante pode ser detectado----------
+[03:03] ----------Nada relevante pode ser detectado----------
+[03:03] ----------Nada relevante pode ser detectado----------
+[03:04] ----------Nada relevante pode ser detectado----------
+[03:04] ----------Nada relevante pode ser detectado----------
+[03:04] ----------Nada relevante pode ser detectado----------
+[03:05] ----------Nada relevante pode ser detectado----------
+[03:05] ----------Nada relevante pode ser detectado----------
+[03:05] ----------Nada relevante pode ser detectado----------
+[03:06] ----------Nada relevante pode ser detectado----------
+[03:06] ----------Nada relevante pode ser detectado----------
+[03:07] ----------Nada relevante pode ser detectado----------
+[03:07] ----------Nada relevante pode ser detectado----------
+[03:08] ----------Nada relevante pode ser detectado----------
+[03:08] ----------Nada relevante pode ser detectado----------
+[03:08] ----------Nada relevante pode ser detectado----------
+[03:09] ----------Nada relevante pode ser detectado----------
+[03:09] ----------Nada relevante pode ser detectado----------
+[03:10] ----------Nada relevante pode ser detectado----------
+[03:10] ----------Nada relevante pode ser detectado----------
+[03:10] ----------Nada relevante pode ser detectado----------
+[03:11] ----------Nada relevante pode ser detectado----------
+[03:11] ----------Nada relevante pode ser detectado----------
+[03:12] ----------Nada relevante pode ser detectado----------
+[03:12] ----------Nada relevante pode ser detectado----------
+[03:13] ----------Nada relevante pode ser detectado----------
+[03:13] ----------Nada relevante pode ser detectado----------
+[03:13] ----------Nada relevante pode ser detectado----------
+[03:14] ----------Nada relevante pode ser detectado----------
+[03:14] ----------Nada relevante pode ser detectado----------
+[03:15] ----------Nada relevante pode ser detectado----------
+[03:15] ----------Nada relevante pode ser detectado----------
+[03:15] ----------Nada relevante pode ser detectado----------
+[03:16] ----------Nada relevante pode ser detectado----------
+[03:16] ----------Nada relevante pode ser detectado----------
+[03:17] ----------Nada relevante pode ser detectado----------
+[03:17] ----------Nada relevante pode ser detectado----------
+[03:18] ----------Nada relevante pode ser detectado----------
+[03:18] ----------Nada relevante pode ser detectado----------
+[03:18] ----------Nada relevante pode ser detectado----------
+[03:19] ----------Nada relevante pode ser detectado----------
+[03:19] ----------Nada relevante pode ser detectado----------
+[03:20] ----------Nada relevante pode ser detectado----------
+[03:20] Semáforo vermelho a frente (sem faixa de pedestre)
+[03:21] Semáforo vermelho a frente (sem faixa de pedestre)
+[03:21] Semáforo vermelho a frente (sem faixa de pedestre)
+[03:21] ----------Nada relevante pode ser detectado----------
+[03:22] Semáforo vermelho a frente (sem faixa de pedestre)
+[03:22] ----------Nada relevante pode ser detectado----------
+[03:22] ----------Nada relevante pode ser detectado----------
+[03:23] ----------Nada relevante pode ser detectado----------
+[03:23] ----------Nada relevante pode ser detectado----------
+[03:24] ----------Nada relevante pode ser detectado----------
+[03:24] ----------Nada relevante pode ser detectado----------
+[03:25] ----------Nada relevante pode ser detectado----------
+[03:25] ----------Nada relevante pode ser detectado----------
+[03:25] ----------Nada relevante pode ser detectado----------
+[03:26] ----------Nada relevante pode ser detectado----------
+[03:26] ----------Nada relevante pode ser detectado----------
+[03:27] ----------Nada relevante pode ser detectado----------
+[03:27] ----------Nada relevante pode ser detectado----------
+[03:27] ----------Nada relevante pode ser detectado----------
+[03:28] ----------Nada relevante pode ser detectado----------
+[03:28] ----------Nada relevante pode ser detectado----------
+[03:29] ----------Nada relevante pode ser detectado----------
+[03:29] ----------Nada relevante pode ser detectado----------
+[03:30] ----------Nada relevante pode ser detectado----------
+[03:30] ----------Nada relevante pode ser detectado----------
+[03:31] ----------Nada relevante pode ser detectado----------
+[03:31] ----------Nada relevante pode ser detectado----------
+[03:31] ----------Nada relevante pode ser detectado----------
+[03:32] ----------Nada relevante pode ser detectado----------
+[03:32] ----------Nada relevante pode ser detectado----------
+[03:33] ----------Nada relevante pode ser detectado----------
+[03:33] ----------Nada relevante pode ser detectado----------
+[03:34] ----------Nada relevante pode ser detectado----------
+[03:34] ----------Nada relevante pode ser detectado----------
+[03:34] ----------Nada relevante pode ser detectado----------
+[03:35] ----------Nada relevante pode ser detectado----------
+[03:35] ----------Nada relevante pode ser detectado----------
+[03:36] ----------Nada relevante pode ser detectado----------
+[03:36] ----------Nada relevante pode ser detectado----------
+[03:37] ----------Nada relevante pode ser detectado----------
+[03:37] ----------Nada relevante pode ser detectado----------
+[03:38] ----------Nada relevante pode ser detectado----------
+[03:38] ----------Nada relevante pode ser detectado----------
+[03:39] ----------Nada relevante pode ser detectado----------
+[03:39] ----------Nada relevante pode ser detectado----------
+[03:39] ----------Nada relevante pode ser detectado----------
+[03:40] ----------Nada relevante pode ser detectado----------
+[03:40] ----------Nada relevante pode ser detectado----------
+[03:41] ----------Nada relevante pode ser detectado----------
+[03:41] ----------Nada relevante pode ser detectado----------
+[03:42] ----------Nada relevante pode ser detectado----------
+[03:42] ----------Nada relevante pode ser detectado----------
+[03:43] ----------Nada relevante pode ser detectado----------
+[03:43] ----------Nada relevante pode ser detectado----------
+[03:43] ----------Nada relevante pode ser detectado----------
+[03:44] ----------Nada relevante pode ser detectado----------
+[03:44] ----------Nada relevante pode ser detectado----------
+[03:45] ----------Nada relevante pode ser detectado----------
+[03:45] ----------Nada relevante pode ser detectado----------
+[03:45] ----------Nada relevante pode ser detectado----------
+[03:46] ----------Nada relevante pode ser detectado----------
+[03:46] ----------Nada relevante pode ser detectado----------
+[03:47] ----------Nada relevante pode ser detectado----------
+[03:47] ----------Nada relevante pode ser detectado----------
+[03:47] ----------Nada relevante pode ser detectado----------
+[03:48] ----------Nada relevante pode ser detectado----------
+[03:48] ----------Nada relevante pode ser detectado----------
+[03:49] ----------Nada relevante pode ser detectado----------
+[03:49] ----------Nada relevante pode ser detectado----------
+[03:49] ----------Nada relevante pode ser detectado----------
+[03:50] ----------Nada relevante pode ser detectado----------
+[03:50] ----------Nada relevante pode ser detectado----------
+[03:51] ----------Nada relevante pode ser detectado----------
+[03:51] ----------Nada relevante pode ser detectado----------
+[03:51] ----------Nada relevante pode ser detectado----------
+[03:52] ----------Nada relevante pode ser detectado----------
+[03:52] ----------Nada relevante pode ser detectado----------
+[03:53] ----------Nada relevante pode ser detectado----------
+[03:53] ----------Nada relevante pode ser detectado----------
+[03:54] ----------Nada relevante pode ser detectado----------
+[03:54] ----------Nada relevante pode ser detectado----------
+[03:54] ----------Nada relevante pode ser detectado----------
+[03:55] ----------Nada relevante pode ser detectado----------
+[03:55] ----------Nada relevante pode ser detectado----------
+[03:55] ----------Nada relevante pode ser detectado----------
+[03:56] ----------Nada relevante pode ser detectado----------
+[03:56] ----------Nada relevante pode ser detectado----------
+[03:57] ----------Nada relevante pode ser detectado----------
+[03:57] ----------Nada relevante pode ser detectado----------
+[03:57] ----------Nada relevante pode ser detectado----------
+[03:58] ----------Nada relevante pode ser detectado----------
+[03:58] ----------Nada relevante pode ser detectado----------
+[03:59] ----------Nada relevante pode ser detectado----------
+[03:59] ----------Nada relevante pode ser detectado----------
+[03:59] ----------Nada relevante pode ser detectado----------
+[04:00] ----------Nada relevante pode ser detectado----------
+[04:00] ----------Nada relevante pode ser detectado----------
+[04:01] ----------Nada relevante pode ser detectado----------
+[04:01] ----------Nada relevante pode ser detectado----------
+[04:02] Faixa de pedestre sem semáforo a frente
+[04:02] Faixa de pedestre sem semáforo a frente
+[04:03] Faixa de pedestre sem semáforo a frente
+[04:03] Faixa de pedestre sem semáforo a frente
+[04:04] Faixa de pedestre sem semáforo a frente
+[04:04] Faixa de pedestre sem semáforo a frente
+[04:05] Faixa de pedestre sem semáforo a frente
+[04:05] Faixa de pedestre sem semáforo a frente
+[04:05] Faixa de pedestre sem semáforo a frente
+[04:06] Faixa de pedestre sem semáforo a frente
+[04:06] Faixa de pedestre sem semáforo a frente
+[04:07] Faixa de pedestre sem semáforo a frente
+[04:07] Faixa de pedestre sem semáforo a frente
+[04:08] Faixa de pedestre sem semáforo a frente
+[04:08] Faixa de pedestre sem semáforo a frente
+[04:09] Faixa de pedestre sem semáforo a frente
+[04:09] Faixa de pedestre sem semáforo a frente
+[04:10] Faixa de pedestre sem semáforo a frente
+[04:10] Faixa de pedestre sem semáforo a frente
+[04:11] Faixa de pedestre sem semáforo a frente
+[04:11] Faixa de pedestre sem semáforo a frente
+[04:12] ----------Nada relevante pode ser detectado----------
+[04:12] ----------Nada relevante pode ser detectado----------
+[04:12] ----------Nada relevante pode ser detectado----------
+[04:13] ----------Nada relevante pode ser detectado----------
+[04:13] ----------Nada relevante pode ser detectado----------
+[04:14] ----------Nada relevante pode ser detectado----------
+[04:14] ----------Nada relevante pode ser detectado----------
+[04:15] ----------Nada relevante pode ser detectado----------
+[04:15] ----------Nada relevante pode ser detectado----------
+[04:16] ----------Nada relevante pode ser detectado----------
+[04:16] Semáforo vermelho a frente (sem faixa de pedestre)
+[04:16] ----------Nada relevante pode ser detectado----------
+[04:17] ----------Nada relevante pode ser detectado----------
+[04:17] ----------Nada relevante pode ser detectado----------
+[04:18] Faixa de pedestre sem semáforo a frente
+[04:18] Faixa de pedestre sem semáforo a frente
+[04:19] Faixa de pedestre sem semáforo a frente
+[04:19] Faixa de pedestre sem semáforo a frente
+[04:19] Faixa de pedestre sem semáforo a frente
+[04:20] Faixa de pedestre sem semáforo a frente
+[04:20] Faixa de pedestre sem semáforo a frente
+[04:21] Faixa de pedestre sem semáforo a frente
+[04:21] Faixa de pedestre sem semáforo a frente
+[04:21] ----------Nada relevante pode ser detectado----------
+[04:22] ----------Nada relevante pode ser detectado----------
+[04:22] ----------Nada relevante pode ser detectado----------
+[04:23] ----------Nada relevante pode ser detectado----------
+[04:23] ----------Nada relevante pode ser detectado----------
+[04:23] ----------Nada relevante pode ser detectado----------
+[04:24] ----------Nada relevante pode ser detectado----------
+[04:24] ----------Nada relevante pode ser detectado----------
+[04:25] ----------Nada relevante pode ser detectado----------
+[04:25] ----------Nada relevante pode ser detectado----------
+[04:25] ----------Nada relevante pode ser detectado----------
+[04:26] ----------Nada relevante pode ser detectado----------
+[04:26] ----------Nada relevante pode ser detectado----------
+[04:27] ----------Nada relevante pode ser detectado----------
+[04:27] ----------Nada relevante pode ser detectado----------
+[04:28] ----------Nada relevante pode ser detectado----------
+[04:28] ----------Nada relevante pode ser detectado----------
+[04:28] ----------Nada relevante pode ser detectado----------
+[04:29] ----------Nada relevante pode ser detectado----------
+[04:29] ----------Nada relevante pode ser detectado----------
+[04:30] ----------Nada relevante pode ser detectado----------
+[04:30] ----------Nada relevante pode ser detectado----------
+[04:30] ----------Nada relevante pode ser detectado----------
+[04:31] ----------Nada relevante pode ser detectado----------
+[04:31] ----------Nada relevante pode ser detectado----------
+[04:32] ----------Nada relevante pode ser detectado----------
+[04:32] ----------Nada relevante pode ser detectado----------
+[04:32] ----------Nada relevante pode ser detectado----------
+[04:33] ----------Nada relevante pode ser detectado----------
+[04:33] ----------Nada relevante pode ser detectado----------
+[04:34] ----------Nada relevante pode ser detectado----------
+[04:34] ----------Nada relevante pode ser detectado----------
+[04:35] ----------Nada relevante pode ser detectado----------
+[04:35] ----------Nada relevante pode ser detectado----------
+[04:36] ----------Nada relevante pode ser detectado----------
+[04:36] ----------Nada relevante pode ser detectado----------
+[04:37] ----------Nada relevante pode ser detectado----------
+[04:37] ----------Nada relevante pode ser detectado----------
+[04:37] ----------Nada relevante pode ser detectado----------
+[04:38] ----------Nada relevante pode ser detectado----------
+[04:38] ----------Nada relevante pode ser detectado----------
+[04:39] ----------Nada relevante pode ser detectado----------
+[04:39] ----------Nada relevante pode ser detectado----------
+[04:40] ----------Nada relevante pode ser detectado----------
+[04:40] ----------Nada relevante pode ser detectado----------
+[04:40] ----------Nada relevante pode ser detectado----------
+[04:41] ----------Nada relevante pode ser detectado----------
+[04:41] ----------Nada relevante pode ser detectado----------
+[04:42] ----------Nada relevante pode ser detectado----------
+[04:42] ----------Nada relevante pode ser detectado----------
+[04:43] ----------Nada relevante pode ser detectado----------
+[04:43] ----------Nada relevante pode ser detectado----------
+[04:44] ----------Nada relevante pode ser detectado----------
+[04:44] ----------Nada relevante pode ser detectado----------
+[04:45] ----------Nada relevante pode ser detectado----------
+[04:45] ----------Nada relevante pode ser detectado----------
+[04:46] ----------Nada relevante pode ser detectado----------
+[04:46] ----------Nada relevante pode ser detectado----------
+[04:47] ----------Nada relevante pode ser detectado----------
+[04:47] ----------Nada relevante pode ser detectado----------
+[04:48] ----------Nada relevante pode ser detectado----------
+[04:49] ----------Nada relevante pode ser detectado----------
+[04:49] ----------Nada relevante pode ser detectado----------
+[04:50] ----------Nada relevante pode ser detectado----------
+[04:50] ----------Nada relevante pode ser detectado----------
+[04:51] ----------Nada relevante pode ser detectado----------
+[04:51] ----------Nada relevante pode ser detectado----------
+[04:52] ----------Nada relevante pode ser detectado----------
+[04:52] ----------Nada relevante pode ser detectado----------
+[04:53] ----------Nada relevante pode ser detectado----------
+[04:54] ----------Nada relevante pode ser detectado----------
+[04:54] ----------Nada relevante pode ser detectado----------
+[04:54] ----------Nada relevante pode ser detectado----------
+[04:55] ----------Nada relevante pode ser detectado----------
+[04:55] ----------Nada relevante pode ser detectado----------
+[04:56] ----------Nada relevante pode ser detectado----------
+[04:56] ----------Nada relevante pode ser detectado----------
+[04:57] ----------Nada relevante pode ser detectado----------
+[04:58] ----------Nada relevante pode ser detectado----------
+[04:59] ----------Nada relevante pode ser detectado----------
+[05:00] ----------Nada relevante pode ser detectado----------
+[05:00] ----------Nada relevante pode ser detectado----------
+[05:02] ----------Nada relevante pode ser detectado----------
+[05:03] ----------Nada relevante pode ser detectado----------
+[05:04] ----------Nada relevante pode ser detectado----------
+[05:05] ----------Nada relevante pode ser detectado----------
+[05:05] ----------Nada relevante pode ser detectado----------
+[05:06] ----------Nada relevante pode ser detectado----------
+[05:08] ----------Nada relevante pode ser detectado----------
+Encerrado.
+[05:09] ----------Nada relevante pode ser detectado----------

@@ -1,0 +1,36 @@
+{
+  "inference_id": "47438d9b-9815-4111-bd91-1ea7652e9170",
+  "time": 0.008162817917764187,
+  "resolved_model": {
+    "model_id": "pedestrian-light-crossing-uoz6o/1",
+    "model_package_id": "341349e9c9f96e1bbe9f80d3dd33e463",
+    "backend": "onnx",
+    "quantization": "fp32"
+  },
+  "image": {
+    "width": 1280,
+    "height": 720
+  },
+  "predictions": [
+    {
+      "x": 539.5,
+      "y": 560.5,
+      "width": 807.0,
+      "height": 313.0,
+      "confidence": 0.8254229426383972,
+      "class": "pedestrian_crossing",
+      "class_id": 1,
+      "detection_id": "4e5c7fec-6aee-4276-8d1b-2c86924ddd5b"
+    },
+    {
+      "x": 612.0,
+      "y": 206.5,
+      "width": 14.0,
+      "height": 19.0,
+      "confidence": 0.5600167512893677,
+      "class": "red_light",
+      "class_id": 2,
+      "detection_id": "38bc72d7-df72-4ec4-af77-99137aebfc08"
+    }
+  ]
+}

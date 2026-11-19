@@ -1,0 +1,56 @@
+{
+  "inference_id": "16304408-2091-4f9c-9267-37ce943c111e",
+  "time": 0.007704833522439003,
+  "resolved_model": {
+    "model_id": "pedestrian-light-crossing-uoz6o/1",
+    "model_package_id": "341349e9c9f96e1bbe9f80d3dd33e463",
+    "backend": "onnx",
+    "quantization": "fp32"
+  },
+  "image": {
+    "width": 1280,
+    "height": 720
+  },
+  "predictions": [
+    {
+      "x": 548.0,
+      "y": 559.5,
+      "width": 852.0,
+      "height": 319.0,
+      "confidence": 0.7903293371200562,
+      "class": "pedestrian_crossing",
+      "class_id": 1,
+      "detection_id": "bff74b11-045d-4fc4-9540-333fac51b2eb"
+    },
+    {
+      "x": 662.0,
+      "y": 184.0,
+      "width": 16.0,
+      "height": 20.0,
+      "confidence": 0.7738783955574036,
+      "class": "red_light",
+      "class_id": 2,
+      "detection_id": "9ce88dfa-1a05-4c33-acb5-86b190f2f883"
+    },
+    {
+      "x": 778.0,
+      "y": 269.5,
+      "width": 14.0,
+      "height": 15.0,
+      "confidence": 0.7371845841407776,
+      "class": "red_light",
+      "class_id": 2,
+      "detection_id": "4151596f-3c85-4a6b-90b7-f50c4ffd654f"
+    },
+    {
+      "x": 58.0,
+      "y": 221.0,
+      "width": 14.0,
+      "height": 14.0,
+      "confidence": 0.563768744468689,
+      "class": "red_light",
+      "class_id": 2,
+      "detection_id": "7d39b205-cda5-4e94-bb60-a0cf664c090f"
+    }
+  ]
+}

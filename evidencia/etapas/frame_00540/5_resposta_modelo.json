@@ -1,0 +1,36 @@
+{
+  "inference_id": "b76a36a4-29fb-4ffd-aee8-a484973d2e51",
+  "time": 0.007845343090593815,
+  "resolved_model": {
+    "model_id": "pedestrian-light-crossing-uoz6o/1",
+    "model_package_id": "341349e9c9f96e1bbe9f80d3dd33e463",
+    "backend": "onnx",
+    "quantization": "fp32"
+  },
+  "image": {
+    "width": 1280,
+    "height": 720
+  },
+  "predictions": [
+    {
+      "x": 659.5,
+      "y": 489.5,
+      "width": 739.0,
+      "height": 225.0,
+      "confidence": 0.7659914493560791,
+      "class": "pedestrian_crossing",
+      "class_id": 1,
+      "detection_id": "d4b237d6-4aea-44ac-bfd2-b870951d8a25"
+    },
+    {
+      "x": 67.0,
+      "y": 371.0,
+      "width": 132.0,
+      "height": 190.0,
+      "confidence": 0.537318229675293,
+      "class": "vehicle",
+      "class_id": 3,
+      "detection_id": "1b69c6d4-c7f4-4b47-b75f-fc45d7312e36"
+    }
+  ]
+}

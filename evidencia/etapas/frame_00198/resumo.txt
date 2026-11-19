@@ -1,0 +1,8 @@
+frame: 198  tempo: 00:06 (6.61 s)
+etapa 1: shape=(720, 1280, 3) dtype=uint8 bytes=2764800
+etapa 3: jpeg=173228 bytes (16.0x menor) base64=230972 caracteres diferenca_media=0.73 diferenca_max=26
+etapa 4: 1280x720 -> 640x640 (escala x=0.50, y=0.89)
+etapa 5: 2 deteccoes brutas, tempo de inferencia=0.008088706992566586
+    pedestrian_crossing 0.84 x=1020.0 y=436.5 w=520.0 h=111.0
+    red_light 0.43 x=455.5 y=99.5 w=17.0 h=17.0
+etapa 6: 1 apos filtro >= 0.5 -> "Faixa de pedestre sem semáforo a frente"

@@ -1,0 +1,14 @@
+# segredos
+.env
+
+# ambiente virtual e cache do Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+
+# saídas opcionais do programa
+deteccoes/

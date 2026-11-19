@@ -1,0 +1,7 @@
+frame: 963  tempo: 00:32 (32.13 s)
+etapa 1: shape=(720, 1280, 3) dtype=uint8 bytes=2764800
+etapa 3: jpeg=163671 bytes (16.9x menor) base64=218228 caracteres diferenca_media=0.70 diferenca_max=27
+etapa 4: 1280x720 -> 640x640 (escala x=0.50, y=0.89)
+etapa 5: 1 deteccoes brutas, tempo de inferencia=0.009041239507496357
+    red_light 0.81 x=678.0 y=134.0 w=18.0 h=26.0
+etapa 6: 1 apos filtro >= 0.5 -> "Semáforo vermelho a frente (sem faixa de pedestre)"

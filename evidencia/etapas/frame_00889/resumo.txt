@@ -1,0 +1,10 @@
+frame: 889  tempo: 00:29 (29.66 s)
+etapa 1: shape=(720, 1280, 3) dtype=uint8 bytes=2764800
+etapa 3: jpeg=166024 bytes (16.7x menor) base64=221368 caracteres diferenca_media=0.73 diferenca_max=24
+etapa 4: 1280x720 -> 640x640 (escala x=0.50, y=0.89)
+etapa 5: 4 deteccoes brutas, tempo de inferencia=0.007704833522439003
+    pedestrian_crossing 0.79 x=548.0 y=559.5 w=852.0 h=319.0
+    red_light 0.77 x=662.0 y=184.0 w=16.0 h=20.0
+    red_light 0.74 x=778.0 y=269.5 w=14.0 h=15.0
+    red_light 0.56 x=58.0 y=221.0 w=14.0 h=14.0
+etapa 6: 4 apos filtro >= 0.5 -> "Faixa de pedestre e semáforo vermelho a frente"
